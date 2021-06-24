@@ -7,7 +7,7 @@ class Logo extends Component {
             <div className="logo-main">
                 <img src="assets/ds_circle_logo.png" />
             </div>
-            )
+            );
         
     }
 }
