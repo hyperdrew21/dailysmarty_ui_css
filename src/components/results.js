@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import AnimateHeight from "react-animate-height";
 
 import SearchBar from "./search-bar";
 import Logo from "./logo";
